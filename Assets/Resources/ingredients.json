@@ -1,0 +1,34 @@
+{
+  "Items": [
+    {
+      "type": "Null",
+      "displayedName": "",
+      "points": 0
+    },
+    {
+      "type": "Potato",
+      "displayedName": "Картофель",
+      "points": 10
+    },
+    {
+      "type": "Carrot",
+      "displayedName": "Морковь",
+      "points": 20
+    },
+    {
+      "type": "Pepper",
+      "displayedName": "Болгарский перец",
+      "points": 30
+    },
+    {
+      "type": "Onion",
+      "displayedName": "Лук",
+      "points": 40
+    },
+    {
+      "type": "Meat",
+      "displayedName": "Мясо",
+      "points": 50
+    }
+  ]
+}
